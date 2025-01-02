@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    margin-right: 20px;
+}
+
+.background{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/src/assets/section1bg.jpg);
+}
+
+.section1-content h1{
+    margin-bottom: 1%;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+
+.section1-content p{
+    font-size: 1.5rem;
+}
+
+.section1-content span{
+    color: tomato;
+}
+
+/* .winter-card{
+    width: 50%;
+    height: 60vh;
+}
+
+.card-body img{
+    width: 200px;
+} */
+
+  .holiday-section h1 {
+    font-size: 2rem;
+  }
+  
+  .holiday-section p {
+    line-height: 1.6;
+  }
+  
+  .holiday-section button {
+    background-color: #e91e63; /* Custom color for the button */
+    border: none;
+  }
+  
+.winter-card{
+    border: 2px solid rgb(182, 177, 177);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgb(74, 73, 73);
+}
+
+.section4{
+    background-image: url(/src/assets/section4bg.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(255, 255, 255, 0.321);
+    color: white;
+}
+
+.section4 img{
+    width: 30%;
+}
+
+.section5 .icon,.text{
+    color: violet;
+}
+
+.contact-section{
+    border-top: 2px solid black;
+}
+
+.form-section{
+    background-color: violet;
+    border-radius: 50px 80px;
+}
