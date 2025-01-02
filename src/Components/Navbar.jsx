@@ -40,14 +40,14 @@ export const Navbar = () => {
   </div>
 </nav>
 
-<div className="container py-2 mt-5">
+<div className="container mt-md-5 py-md-5">
   <div className="row ms-5">
     <div className="col-md-12 section1-content">
       <h1>Amazing</h1>
       <h1><span>santorini </span>10 days tour</h1>
       <p>
       Santorini is a stunning Greek island known for its iconic white-washed buildings, breathtaking sunsets, and unique volcanic beaches. It's a must-visit destination for experiencing the beauty of the Aegean Sea and exploring ancient ruins.</p>
-      <button type="button" className="btn btn-outline-dark btn-lg">BOOK NOW</button>
+      <button type="button" className="btn btn-outline-light btn-lg text-dark">BOOK NOW</button>
     </div>
   </div>
 </div>
